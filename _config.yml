@@ -6,7 +6,7 @@ url: "https://scalixtro.github.io/AzureConceptos/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: minime
+  title: minima
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
