@@ -1,4 +1,4 @@
-remote_theme: "rohanchandra/type-theme"
+remote_theme: benbalter/retlab
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://scalixtro.github.io/AzureConceptos/"
@@ -6,7 +6,7 @@ url: "https://scalixtro.github.io/AzureConceptos/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: minima
+  title: Minima
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
