@@ -1,6 +1,6 @@
 <h1>Reto 1. Máster</h1>
 
-## Tabla de contenido
+## Tabla de contenidos
 - [Virtualización](#Virtualización)
   - [Hipervisor](#Hipervisor)
   - [Modelos de nube (pública, privada, híbrida)](#Modelos-de-nube-(pública,-privada,-híbrida))
